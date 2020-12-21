@@ -7,14 +7,31 @@ p
 {
 background-color : pink;
 font-family: courier;
-font-size: 100px;
+font-size: 88px;
 color: olive;
-border: dotted;
+border: solid;
 border-color: yellow
-border raduius: 50px
+border radius: 50px
 }
 
 h2
+{
+background-color : pink;
+font-family: courier;
+font-size: 50px;
+color: olive;
+border: dotted;
+border-color: yellow
+border radius: 50px
+}
+
+h2
+{
+font-family: 'Caveat Brush', cursive;
+color: cadetblue;
+}
+
+h1
 {
 font-family: 'Caveat Brush', cursive;
 color: darkred;
